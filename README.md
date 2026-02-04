@@ -1,0 +1,1 @@
+projeto feito para simular um jogo de adivinhar um número secreto aleatório escolhido pelo sistema entre 1 e 10, ao errar o sistema da pistas se o número é maior ou menor que o número secreto e ao acertar esse número é possível começar um novo jogo clicando em "reiniciar".
