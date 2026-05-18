@@ -1,1 +1,18 @@
-projeto feito para simular um jogo de adivinhar um número secreto aleatório escolhido pelo sistema entre 1 e 10, ao errar o sistema da pistas se o número é maior ou menor que o número secreto e ao acertar esse número é possível começar um novo jogo clicando em "reiniciar".
+# 🔢 Número Secreto
+
+Jogo web de adivinhar o número secreto escolhido aleatoriamente 
+pelo sistema entre 1 e 10.
+
+## 🚀 Funcionalidades
+
+- Sorteio aleatório do número secreto
+- Dicas se o número é maior ou menor que o chute
+- Reinício do jogo ao acertar
+
+## 🛠️ Tecnologias
+
+- HTML5 · CSS3 · JavaScript
+
+## 👨‍💻 Autor
+
+Caio Vitor — [LinkedIn](https://linkedin.com/in/caio-vitor-dev) · [GitHub](https://github.com/caioz-dev)
